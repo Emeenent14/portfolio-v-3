@@ -12,7 +12,7 @@ export default function Skills() {
         <h3 className="text-sky-500 text-center text-3xl font-bold mb-16">
           Skills and <span className="text-white">Tech Stack</span>
         </h3>
-        <div className="skill flex flex-wrap md:justify-center justify-start md:mx-5 mx-2 align-center gap-5">
+        <div className="skill flex flex-wrap md:justify-center justify-start md:mx-5  align-center gap-5">
           {skillsData.map((skill, index) => (
             <div key={index} className="w-1/8">
               <SkillCard name={skill.name} path={skill.path} />
