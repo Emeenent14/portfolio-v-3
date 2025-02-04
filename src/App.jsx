@@ -4,8 +4,6 @@ import Home from "./Home";
 import About from "./About";
 import Skills from "./Skills";
 import Projects from "./Projects";
-import Publications from "./Publication";
-import Certifications from "./Certifications";
 import WorkEx from "./WorkEx";
 import Footer from "./Footer";
 
@@ -18,8 +16,6 @@ function App() {
       <Skills />
       <WorkEx />
       <Projects />
-      <Publications />
-      <Certifications />
       <Footer />
     </div>
   );

@@ -11,34 +11,29 @@ export default function Home() {
         // style={{ margin: "13rem auto 17rem auto" }}
       >
         <p className="name font-medium text-white text-8xl content-center">
-          Saumya <span className="text-sky-500">Gupta</span>
+          Chukwuemeka <span className="text-sky-500">Franklin</span>
         </p>
         <p className="title text-white text-2xl">
-          Software Developer & Data Engineer
+          Full Stack Developer 
         </p>
         <p className="socials text-white text-3xl flex gap-x-6 mt-2">
-          <a href="mailto:saumyagupta2025@gmail.com" target="_blank">
+          <a href="mailto:emeenent14@gmail.com" target="_blank">
             <i className="fa-solid fa-envelope text-white"></i>
           </a>
-          <a
-            href="https://drive.google.com/file/d/1jJToGehjuY-_k25PzDQHH9KDiEj8EFL_/view?usp=drive_link"
-            target="_blank"
-          >
-            <i className="fa-solid fa-file-lines text-white"></i>
-          </a>
-          <a href="https://www.linkedin.com/in/saumya2029/" target="_blank">
+
+          <a href="https://www.linkedin.com/in/chukwuemeka-franklin-54a02334b/" target="_blank">
             <i className="fa-brands fa-linkedin text-white"></i>
           </a>
 
-          <a href="https://github.com/saumyagupta2025" target="_blank">
+          <a href="https://github.com/Emeenent14" target="_blank">
             <i className="fa-brands fa-github text-white"></i>
           </a>
-          <a href="https://twitter.com/saumya_812" target="_blank">
-            <i className="fa-brands fa-twitter text-white"></i>
+          <a href="https://x.com/Chukwuemek52371" target="_blank">
+              <i className="fa-brands fa-x-twitter socials-icon text-white"></i>
           </a>
 
-          <a href="https://saumyagupta.hashnode.dev/" target="_blank">
-            <i className="fa-brands fa-hashnode text-white"></i>
+          <a href="https://www.telegram.me/+2348189296891/" target="_blank">
+              <i className="fa-brands fa-telegram socials-icon text-white"></i>
           </a>
         </p>
       </div>

@@ -8,12 +8,8 @@
     "path": "./css.svg"
   },
   {
-    "name": "SASS",
-    "path": "./sass.svg"
-  },
-  {
-    "name": "Bootstrap",
-    "path": "./bootstrap-5-1.svg"
+    "name": "TypeScript",
+    "path": "./typescript.svg"
   },
   {
     "name": "Tailwind",
@@ -28,71 +24,51 @@
     "path": "./react.svg"
   },
   {
-    "name": "Figma",
-    "path": "./figma.svg"
-  },
-  {
-    "name": "Node.js",
-    "path": "./nodejs-icon.svg"
-  },
-  {
-    "name": "Express JS",
-    "path": "./icons8-express-js.svg"
+    "name": "Django",
+    "path": "./django.png"
   },
   {
     "name": "Python",
     "path": "./python.svg"
   },
   {
-    "name": "Pyspark",
-    "path": "./spark.svg"
+    "name": "Redux",
+    "path": "./redux.svg"
   },
   {
     "name": "SQL",
     "path": "./sql.svg"
   },
   {
-    "name": "Databricks",
-    "path": "./databricks.svg"
-  },
-  {
-    "name": "DBT",
-    "path": "./dbt-logo-500AB0BAA7-seeklogo.com.png"
+    "name": "Next.js",  
+    "path": "./next.svg"
   },
   {
     "name": "Git & Github",
     "path": "./github.svg"
   },
   {
-    "name": "Java",
-    "path": "./java.svg"
+    "name": "React Native",
+    "path": "./react-native.svg"
   },
   {
-    "name": "Azure",
-    "path": "./azure.svg"
+    "name": "DRF",
+    "path": "./Django REST.svg"
   },
   {
-    "name": "AWS",
-    "path": "./aws-logo.png"
-  },
-  {
-    "name": "Docker",
-    "path": "./docker.svg"
-  },
-  {
-    "name": "Kubernetes",
-    "path": "./kubernetes.svg"
-  },
-  {
-    "name": "Jupyter Notebook",
-    "path": "./jupyter.svg"
-  },
-  {
-    "name": "Postman",
-    "path": "./postman.svg"
+    "name": "PostgreSQL",
+    "path": "./poostgresql.png"
   },
   {
     "name": "VS Code",
     "path": "./visual-studio-code.svg"
+  },
+  {
+    "name": "Firebase",
+    "path": "./firebase.svg"
+  },
+  {
+    "name": "Figma",
+    "path": "./figma.svg"
   }
 ]

@@ -1,41 +1,33 @@
 [
   {
-    "Name": "Health Information and Diagnostic System",
-    "Desc": "A  system that helps users  to know  about  their  wellbeing based on  various health  parameters, includes  options  for  prediction  of disease   based   on  symptoms,  prediction  of  brain   stroke,  heart   attack,  diabetes,  &  tuberculosis  using  chest X-Ray images.",
-    "GithubLink": "https://github.com/saumyagupta2025/Health-Information_and_Diagnostic-System",
-    "Demo": "https://saumyagupta2025-health-information-and-diagnostic-sy-app-6wtwbh.streamlit.app/",
-    "ImgSrc": "./project1.png"
+    "Name": "Junn e-commerce website.",
+    "Desc": "A fully functional e-commerce platform built with React, Next.js, Zustand, and Tailwind CSS. It features a product search and a cart system, ensuring a smooth shopping experience. The website is deployed online, providing real-time access. Developed independently, it showcases my ability to build modern, scalable web applications.",
+    "GithubLink": "https://github.com/Emeenent14/Junn-ecommerce",
+    "Demo": "https://junn-ecommerce-emeenent.vercel.app//",
+    "ImgSrc": "./junn (1).jpg"
   },
 
   {
-    "Name": "House Price Prediction Application",
-    "Desc": "A machine learning based web application that tells enables users to estimate and predict prices of houses in Bengaluru with an accuracy of 87% based on features like locality, total area, number of bedrooms, etc.",
-    "GithubLink": "https://github.com/saumyagupta2025/Bengaluru-House-Price-Prediction-App",
-    "Demo": "https://saumyagupta2025-bengaluru-house-price-prediction-app-app-57w1yg.streamlit.app/",
-    "ImgSrc": "./project2.avif"
+    "Name": "Nike landing page",
+    "Desc": "A visually engaging and fully responsive shoe brand landing page built with React, Tailwind CSS, and Redux Toolkit. It features smooth animations, a dynamic product showcase, customer testimonials, and a compelling call-to-action to enhance user engagement. Designed for performance and responsiveness, the page ensures a seamless browsing experience across all devices. Independently developed and deployed online, it highlights my ability to create modern and interactive web experiences.",
+    "GithubLink": "https://github.com/Emeenent14/nike-modd",
+    "Demo": "https://nike-emeenent.vercel.app/",
+    "ImgSrc": "./nikeweb (1).jpg"
   },
 
   {
-    "Name": "Amazon Product Review Sentiment Analysis",
-    "Desc": "Developed a NLP sentiment analysis model that utilizes Bag-of-Words technique and analyses customer feedback using product reviews in order to identify the positive or negative sentiment with an accuracy of 94% that helps improving customer needs.",
-    "GithubLink": "https://github.com/saumyagupta2025/Amazon-Product-Reviews-Sentiment-Analysis",
-    "Demo": "",
-    "ImgSrc": "./project3.jpeg"
+    "Name": "Youtube clone",
+    "Desc": "A fully functional YouTube clone built with React, Tailwind CSS, Redux Toolkit, and Axios for data fetching. It features key functionalities such as video upload, playback, comments, and likes—all designed to mimic the core features of YouTube. The backend is powered by Node.js to handle server-side operations. Developed independently, this project showcases my ability to build interactive media platforms with both frontend and backend integration. Deployed live, it provides an immersive user experience for browsing and interacting with videos.",
+    "GithubLink": "https://github.com/Emeenent14/youtube-clone",
+    "Demo": "https://react-youtube-clone-murex.vercel.app/",
+    "ImgSrc": "./ytweb (1).jpg"
   },
 
   {
-    "Name": "Customer Segmentation using Unsupervised Machine Learning",
-    "Desc": "Performed customer segmentation with an aim to discover natural groups in the unlabelled mall customer dataset with the help of unsupervised clustering ML algorithms. A comparison was shown between the K-Means, DBSCAN & Hierarchical clustering algorithms.",
+    "Name": "Campusgist social media website",
+    "Desc": "A social media platform for campus students built with React, Tailwind CSS, Redux Toolkit, Axios, and a Django backend with PostgreSQL for data storage. The platform includes features such as messaging, user profiles, posts, likes, comments, and the ability to join groups, designed to foster communication and community. The frontend interacts seamlessly with the backend for real-time updates and data management. Developed as part of a team, this project showcases my ability to collaborate on dynamic and scalable full-stack web applications.",
     "GithubLink": "",
     "Demo": "",
-    "ImgSrc": "./project4.png"
-  },
-
-  {
-    "Name": "Movie Recommender System",
-    "Desc": "Created and deployed a content based movie recommender system on Streamlit cloud that fetches data from TMDB API & recommends movies using cosine similarity scores.",
-    "GithubLink": "",
-    "Demo": "",
-    "ImgSrc": "./project5.jpeg"
+    "ImgSrc": "./socialmedia.jpg"
   }
 ]
